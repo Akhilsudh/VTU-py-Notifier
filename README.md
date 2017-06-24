@@ -1,4 +1,5 @@
 # VTU-py-Notifier
+
 Fed up of checking the VTU website for your results everyday??? Use this script and chill, till this devil of a script notifies you about it :P
 -------------------
 Requirements:
@@ -32,7 +33,7 @@ How To Use:
 >To run the above script periodically, use *CronTab* to do the job and you are good to go   
 
 
-##License
+## License
     The MIT License (MIT)
 
     Copyright (c) 2014-2016 Akhil Sudhakaran
